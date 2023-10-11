@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
-* Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+* 开始
+  * [使用指南](/使用教程.md) <!--注意这里是相对路径-->
+  * [快速入门](/快速入门.md)
+* 常见问题
+  * [ZYTK40](/ZYTK40.md)
